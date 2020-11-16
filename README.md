@@ -1,5 +1,5 @@
 # Magnetoencephalography (MEG) Data Processing
-**Description:** This repository is intended for reading, processing, and analysis of MEG data with [MNE-Python](https://mne.tools/stable/install/mne_python.html) Library. 
+**Description:** This repository is intended for reading, processing, and analysis of MEG data with MNE-Python.
 
 > My current goal is to perform MEG data processing with the aid of Deep Neural Networks.
 
@@ -9,7 +9,7 @@
 - **Year:** `2020`
 
 # Conda Environment
-**Setting up a conda environment with MNE-Python.**
+**Setting up a conda environment with [MNE-Python](https://mne.tools/stable/install/mne_python.html).**
 
 1. Download [Anaconda](https://www.anaconda.com/products/individual).
 1. Open Ubuntu terminal console window: `ctrl+alt+t`:
