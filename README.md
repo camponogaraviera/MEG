@@ -1,7 +1,7 @@
 # Magnetoencephalography (MEG) Data Processing
 **Description:** This repository is intended for reading, processing, and analysis of MEG data with MNE-Python.
 
-> My current goal is to perform MEG data processing with the aid of Deep Neural Networks.
+> The goal is to perform MEG data processing with the aid of Deep Neural Networks.
 
 # Prerequisites
 - **Programming Language:** `Python V3.8.3`
