@@ -3,10 +3,9 @@
 
 > The goal is to perform MEG data processing with the aid of Deep Neural Networks.
 
-# Prerequisites
+# Specs
 - **Programming Language:** `Python V3.8.3`
 - **MNE-Python:** `MNE V0.21.0` 
-- **Year:** `2020`
 
 # Conda Environment
 **Setting up a conda environment with [MNE-Python](https://mne.tools/stable/install/mne_python.html).**
