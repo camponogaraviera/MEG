@@ -1,5 +1,5 @@
 # Magnetoencephalography (MEG) Data Processing
-**Description:** This repository is intended for reading, processing, and analysis of MEG data with MNE-Python.
+**Description:** This repository is intended for reading, processing, and analysis of [MEG](https://en.wikipedia.org/wiki/Magnetoencephalography) data with MNE-Python.
 
 > The goal is to perform MEG data processing with the aid of Deep Neural Networks.
 
@@ -67,6 +67,12 @@ print('Running MNE Version ==', mne.__version__)
 Created and maintained by [@camponogaraviera][1].
 
 [1]: https://github.com/camponogaraviera
+
+# References
+
+\[1] [Hansen, P. C., Kringelbach, M. L., & Salmelin, R. (Eds.). (2010). MEG: An introduction to methods. Oxford University Press.](https://doi.org/10.1093/acprof:oso/9780195307238.001.0001)
+
+\[2] [Peter Hore. Nuclear Magnetic Resonance. May 2015. ISBN: 9780198703419.](https://global.oup.com/ukhe/product/nuclear-magnetic-resonance-9780198703419?cc=tw&lang=en&)
 
 # License
 
